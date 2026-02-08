@@ -16,6 +16,11 @@ python immoscout_bulk_scraper.py
 
 The script writes results to `all_listings.csv`.
 
+## Data Files
+
+- `all_listings.csv` is generated locally and is git-ignored.
+- `sample_listings.csv` is a small sanitized example for structure/demo usage.
+
 ## Quality Gate
 
 Run the local gate:

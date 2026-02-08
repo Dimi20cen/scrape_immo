@@ -2,3 +2,4 @@ chrome_profile/
 .venv/
 __pycache__/
 *.pyc
+all_listings.csv
